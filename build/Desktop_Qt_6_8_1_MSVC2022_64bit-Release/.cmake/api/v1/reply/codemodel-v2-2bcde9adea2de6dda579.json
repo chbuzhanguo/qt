@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Release-62416ac7a195926b2854.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Release",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "network",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "network::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-network-Release-663205ec64aab69cde31.json",
+					"name" : "network",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "network_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-network_autogen-Release-db246136341d17c7fe2e.json",
+					"name" : "network_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "network_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-network_autogen_timestamp_deps-Release-63a2ade922288989bc82.json",
+					"name" : "network_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/qt/network/build/Desktop_Qt_6_8_1_MSVC2022_64bit-Release",
+		"source" : "D:/qt/network"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

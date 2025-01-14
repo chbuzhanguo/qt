@@ -1,0 +1,26 @@
+# ninja log v5
+17	684	7583567812904845	build.ninja	70dbb088cdc37f51
+14	39	0	CMakeFiles/clean.additional	baedbe210acaa455
+39	48	0	clean	e20d38f34c318e58
+17	527	7583567829608189	network_autogen/timestamp	e5277efb4e7ba8f4
+17	527	7583567829608189	network_autogen/mocs_compilation.cpp	e5277efb4e7ba8f4
+17	527	7583567829608189	D:/qt/network/build/Desktop_Qt_6_8_1_MSVC2022_64bit-Debug/network_autogen/timestamp	e5277efb4e7ba8f4
+17	527	7583567829608189	D:/qt/network/build/Desktop_Qt_6_8_1_MSVC2022_64bit-Debug/network_autogen/mocs_compilation.cpp	e5277efb4e7ba8f4
+550	2549	7583567850674843	CMakeFiles/network.dir/mainwindow.cpp.obj	8c91984a447c05b4
+545	2564	7583567850864919	CMakeFiles/network.dir/main.cpp.obj	9b1797cf99dae9c3
+539	2644	7583567851666809	CMakeFiles/network.dir/network_autogen/mocs_compilation.cpp.obj	571542704688f536
+2645	3001	7583567855094569	network.exe	25b46156a7eaf070
+39	768	7583619796282925	network_autogen/timestamp	e5277efb4e7ba8f4
+39	768	7583619796282925	network_autogen/mocs_compilation.cpp	e5277efb4e7ba8f4
+39	768	7583619796282925	D:/qt/network/build/Desktop_Qt_6_8_1_MSVC2022_64bit-Debug/network_autogen/timestamp	e5277efb4e7ba8f4
+39	768	7583619796282925	D:/qt/network/build/Desktop_Qt_6_8_1_MSVC2022_64bit-Debug/network_autogen/mocs_compilation.cpp	e5277efb4e7ba8f4
+770	4218	7583619831761184	CMakeFiles/network.dir/network_autogen/mocs_compilation.cpp.obj	571542704688f536
+776	4223	7583619831806697	CMakeFiles/network.dir/main.cpp.obj	9b1797cf99dae9c3
+783	4250	7583619832063934	CMakeFiles/network.dir/mainwindow.cpp.obj	8c91984a447c05b4
+4250	4575	7583619834750494	network.exe	25b46156a7eaf070
+27	280	7583621199010897	network_autogen/timestamp	e5277efb4e7ba8f4
+27	280	7583621199010897	network_autogen/mocs_compilation.cpp	e5277efb4e7ba8f4
+27	280	7583621199010897	D:/qt/network/build/Desktop_Qt_6_8_1_MSVC2022_64bit-Debug/network_autogen/timestamp	e5277efb4e7ba8f4
+27	280	7583621199010897	D:/qt/network/build/Desktop_Qt_6_8_1_MSVC2022_64bit-Debug/network_autogen/mocs_compilation.cpp	e5277efb4e7ba8f4
+316	2776	7583621227670917	CMakeFiles/network.dir/mainwindow.cpp.obj	8c91984a447c05b4
+2777	3050	7583621229984484	network.exe	25b46156a7eaf070
