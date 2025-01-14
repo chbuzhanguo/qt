@@ -26,7 +26,8 @@ MainWindow::MainWindow(QWidget *parent)
             b->write(c.toUtf8());
         });
     });
-    qDebug()<<2455556;
+    qDebug()<<24;
+
 
 }
 
